@@ -1,1 +1,1 @@
-# simple-interest-cal
+# simple-interest-calculator
